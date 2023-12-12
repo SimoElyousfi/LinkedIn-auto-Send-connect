@@ -1,7 +1,8 @@
 # LinkedIn auto Send connect
-Mini boot with Python to send invetations  in linkedin
+Boot with Python to send invetations  in linkedin
 
-i using python 3, undetected chromedriver, Selenium
+**using**
+Python 3, undetected chromedriver, Selenium
 
 **imports**
 import undetected_chromedriver as uc
