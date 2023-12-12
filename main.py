@@ -52,15 +52,15 @@ def send_():
         # Send Connect
         button = row.find_element(By.TAG_NAME, "button")
         if button.text == "Connect":
-            # actions.click(button).perform()
+            actions.click(button).perform()
             time.sleep(1)
-            #
-            # actions.send_keys(Keys.TAB)
-            # actions.send_keys(Keys.TAB)
-            # actions.send_keys(Keys.TAB)
-            # # time.sleep(1)
-            #
-            # actions.send_keys(Keys.ENTER).perform()
+            
+            actions.send_keys(Keys.TAB)
+            actions.send_keys(Keys.TAB)
+            actions.send_keys(Keys.TAB)
+            time.sleep(1)
+            
+            actions.send_keys(Keys.ENTER).perform()
             print(name)
 
 
