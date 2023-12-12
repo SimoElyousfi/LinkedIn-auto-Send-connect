@@ -1,5 +1,5 @@
 # LinkedIn auto Send connect
-Boot with Python to send invetations  in linkedin, this boot have 3 Functions (Search, Send, Next page) 
+Mini boot with Python to send invitations in linkedin, this boot have 3 Functions (Search, Send, Next page) 
 
 # I using
 Python 3, undetected chromedriver, Selenium
