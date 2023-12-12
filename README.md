@@ -1,5 +1,6 @@
 # LinkedIn auto Send connect
 Boot with Python to send invetations  in linkedin
+This boots have 3 Functions (Search, Send, Next page) 
 
 # I using
 Python 3, undetected chromedriver, Selenium
