@@ -10,9 +10,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-
-I using my GoogleChrome profile to hide  from login section
 **Options**
+I using my GoogleChrome profile to hide  from login section
 # Options
 chrome_options = uc.ChromeOptions()
 chrome_options.add_argument(r'--user-data-dir=C:\Users\moham\AppData\Local\Google\Chrome\User Data')
